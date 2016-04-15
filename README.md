@@ -1,5 +1,7 @@
 # down_pic
 
+scrapy crawl pic
+
 需要很多东西
 
 用于处理图像的模块pillow    pip install pillow
